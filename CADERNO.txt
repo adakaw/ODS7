@@ -1,0 +1,21 @@
+CADERNO
+o head serve como um marcador de metadados do proprio site, enquanto o body possui os hiperlinks e material do site.
+<h1> até o <h6>, os <h> são titulos/cabeçalhos
+<p> paragrafo brother, simples </p>
+
+<img src="img/imagem.jpg" alt="descrição"/> alt é a descrição da imagem quando passa o mouse
+
+<a href="google.com">acesse o google!</a> href é uma referencia a outra pagina, ou seja cria um hiperlink
+
+<div class="myDiv">
+    <h2>titulo 2</h2>
+    <p>paragrafo</p>
+</div>
+o div recebe class ou id (id é especifica e unica, ao contrario da class) pra facilitar edições em JS ou CSS. e lembrando que o div são divisões dentro do corpo do html
+
+a tag <br> força a quebra de linha, util pra poema ou estilização de texto
+<meta charset="utf-8"> indica q vai usar caracteres especiais
+<meta name="viewport" content="device-width", "initial-scale=1.0"> resposividade
+<meta name = "author/reply-to/qlqr metadado" content="o valor do negocio">
+
+<link href="esitlo.css" rel="stylesheet"> linka o css ao html

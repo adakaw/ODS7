@@ -1,0 +1,19 @@
+não precisa "taguear" as tags, é so colocar o elemento direto
+porem funciona com chaveação "{}"
+sempre termina com ;
+
+class = .
+id = #
+
+box model mexe com a posição das div
+    border = borda da div
+    margin = margem de espaço entre divs
+    padding = margem de espaço interno entre conteudo e border
+img
+    width
+    height
+
+FREEPIK
+FLATICON
+PEXELS
+PIXABAY
