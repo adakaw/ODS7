@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    background-color: gray  ;
+}
+.icone{
+    height: 70px;
+    width: 70px;
+}
+h1{
+    color: white;
+    padding-top: 50px;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: bolder;
+}
+h2{
+    border-top: white double;
+    color: white;
+    margin: 0 500px;
+    padding-bottom: 30;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    border: whitesmoke 3px solid;
+    border-radius: 10px;    
+    padding: 5px;
+    font-weight: bold;
+}
+a:hover{
+    background-color: white;
+    color: black;
+    transition: .4s cubic-bezier(0.23, 1, 0.320, 1);
+}
+#capa{
+    text-align: center;
+    background: url(img/lamp-3489395_1920.jpg);
+    height: 500px;
+    background-size: cover;
+}
+#intro,#seila,#metas{
+    margin: 10px;
+    margin-left: 80px;
+    margin-right: 240px;
+    padding: 10px;
+    box-shadow: black 2px 2px 2px;
+    background-color: white;
+    border-radius: 10px;
+}
+#intro{
+    padding-bottom: 15px;
+    border-bottom: 2px white double;
+}
+#seila{
+    padding-bottom: 15px;
+    border-bottom: 2px white double;
+}
